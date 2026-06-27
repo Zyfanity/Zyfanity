@@ -42,7 +42,7 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 🟣 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideTimestamp=false&idleMessage=Probably+coding+something...&showDisplayName=true)](https://discord.com/users/1357626696806830080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideTimestamp=false&idleMessage=Probably+coding+something...&showDisplayName=true&useDisplayName=true&hideBadges=true&hideProfile=false)](https://discord.com/users/1357626696806830080)
 
 </div>
 
