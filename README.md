@@ -10,14 +10,31 @@
 
 ## 👾 About Me
 
-```js
-const Zyfanity = {
-  role:       "Full-Stack Developer & Discord Bot Creator",
-  focus:      ["AI-powered tools", "Discord Bots", "Web Apps"],
-  currently:  "Building Ryzo — Advanced AIO Discord Bot",
-  funFact:    "Most of my best code is private 🔒"
-};
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/>
+
+```yaml
+Name        : Zyfanity
+Role        : Full-Stack Developer
+              Discord Bot Creator
+              UI/UX Designer & Editor
+
+Expertise   : React · Node.js · TypeScript
+              Discord.js · MongoDB · Supabase
+
+Currently   : ⚡ Building Ryzo — AIO Discord Bot
+              🌐 Crafting aesthetic web experiences
+              🤖 Developing AI-powered tools
+
+Goals       : Ship products used by 1M+ users
+              Master systems programming (Go, Rust)
+              Build the next big Discord ecosystem
+
+Fun Facts   : 🔒 Best code is always private
+              🎵 Codes with music on loop
+              🌙 Most productive at night
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -85,9 +102,9 @@ const Zyfanity = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zyfanity.netlify.app)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357626696806830080)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyfanity)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zyfanity)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyfanity@gmail.com)
-[![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/t8vatxG_Zm)
 
 </div>
 
