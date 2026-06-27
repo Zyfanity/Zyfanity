@@ -40,9 +40,9 @@ Fun Facts   : 🔒 Best code is always private
 
 <div align="center">
 
-## 🟣 Discord Status
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5865F2&center=true&vCenter=true&width=200&lines=Discord+Status" alt="Discord Status" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&hideAvatar=true&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&hideDecoration=true)](https://discord.com/users/1357626696806830080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&hideAvatar=true&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true)](https://discord.com/users/1357626696806830080)
 
 </div>
 
