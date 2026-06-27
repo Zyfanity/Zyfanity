@@ -1,21 +1,29 @@
 <div align="center">
 
-# 👋 Hey, I'm **Zyfanity**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Founder+Of+Ryzo+DiscordBOT;Building+Websites+%26+Discord+Bots;An+Editor" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zyfanity&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Discord%20Bot%20Creator&descAlignY=55&descSize=18" />
 
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> **About Me**
-- A Full-Stack Developer
-- 📡 *Currently focused on building AI-powered tools & Discord bots!*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Founder+Of+Ryzo+DiscordBOT;Building+Websites+%26+Discord+Bots;An+Editor" alt="Typing SVG" />
+
+</div>
 
 ---
 
+## 👾 About Me
 
+```js
+const Zyfanity = {
+  role:       "Full-Stack Developer & Discord Bot Creator",
+  focus:      ["AI-powered tools", "Discord Bots", "Web Apps"],
+  currently:  "Building Ryzo — Advanced AIO Discord Bot",
+  funFact:    "Most of my best code is private 🔒"
+};
+```
 
+---
 
 <div align="center">
-    
-## 🛠️ **Tech Stack**
+
+## 🛠️ Tech Stack
 
 ### 🚀 Expert In
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,8 +37,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 📚 Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,19 +51,14 @@
 
 ---
 
-
-
-
-
-
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🔗 Link |
 |:-----------|:---------------|:--------|
-| **Ryzo** | Advanced AIO Discord Bot | [Website](https://ryzo.gg)|
-
+| 🤖 **Ryzo** | Advanced AIO Discord Bot with powerful features | [ryzo.gg](https://ryzo.gg) |
+| 🌐 **Portfolio** | Personal dev profile with animations & music player | [zyfanity.netlify.app](https://zyfanity.netlify.app) |
 
 </div>
 
@@ -64,26 +66,29 @@
 
 <div align="center">
 
-## **GitHub Stats**
-    
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyfanity&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyfanity&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyfanity&theme=tokyonight" width="100%"/>
 
-### Most of my repos/codes are private :(
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyfanity&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyfanity&theme=tokyonight" width="49%"/>
+
+> 🔒 Most of my repos & code are private
 
 </div>
 
 ---
 
-
 <div align="center">
 
-## 📫 **Connect With Me**
+## 📫 Connect With Me
 
-[![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/t8vatxG_Zm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zyfanity.netlify.app)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357626696806830080)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zyfanity)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyfanity@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/t8vatxG_Zm)
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
