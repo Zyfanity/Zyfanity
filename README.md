@@ -42,7 +42,9 @@ Fun Facts   : 🔒 Best code is always private
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=5865F2&center=true&vCenter=true&width=200&lines=Discord+Status" alt="Discord Status" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&hideAvatar=true&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true)](https://discord.com/users/1357626696806830080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=false&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&showDisplayName=true)](https://discord.com/users/1357626696806830080)
+
+> ⚡ Status updates in real-time — join [Lanyard](https://discord.gg/lanyard) to enable live tracking
 
 </div>
 
