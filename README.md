@@ -40,6 +40,16 @@ Fun Facts   : 🔒 Best code is always private
 
 <div align="center">
 
+## 🟣 Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideTimestamp=false&idleMessage=Probably+coding+something...&showDisplayName=true)](https://discord.com/users/1357626696806830080)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Expert In
@@ -98,6 +108,16 @@ Fun Facts   : 🔒 Best code is always private
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/friday2su/friday2su/main/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zyfanity.netlify.app)
@@ -109,24 +129,3 @@ Fun Facts   : 🔒 Best code is always private
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Zyfanity/Zyfanity/main/dist/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🟣 Discord Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably+coding+something...)](https://discord.com/users/1357626696806830080)
-
-</div>
