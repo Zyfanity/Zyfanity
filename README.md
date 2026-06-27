@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zyfanity&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack+Developer+and+Discord+Bot+Creator&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20,80&height=180&section=header&text=Zyfanity&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack+Developer+and+Discord+Bot+Creator&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Founder+Of+Ryzo+DiscordBOT;Building+Websites+%26+Discord+Bots;An+Editor" alt="Typing SVG" />
 
@@ -42,7 +42,7 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 🟣 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&hideStatus=false&hideClan=true)](https://discord.com/users/1357626696806830080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=false&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&hideStatus=false&hideClan=true)](https://discord.com/users/1357626696806830080)
 
 </div>
 
@@ -128,4 +128,4 @@ Fun Facts   : 🔒 Best code is always private
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,20,80&height=100&section=footer" />
