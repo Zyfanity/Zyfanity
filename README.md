@@ -42,7 +42,7 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 🟣 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&animated=false&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&hideDecoration=true&hideClanTag=true)](https://discord.com/users/1357626696806830080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357626696806830080?theme=dark&bg=0d1117&borderRadius=10px&hideAvatar=true&hideTimestamp=false&idleMessage=Probably+coding+something...&hideBadges=true&hideDecoration=true)](https://discord.com/users/1357626696806830080)
 
 </div>
 
@@ -52,18 +52,7 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 🛠️ Languages and Tools
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,php,mysql,mongodb,supabase,discord" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,go,lua,nextjs,threejs,git,github,vscode,figma" />
-
-<br/><br/>
-
-### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=python,java,go,lua,nextjs,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,php,mysql,mongodb,supabase,discord,python,java,go,lua,nextjs,threejs,git,github,vscode,figma&perline=12" />
 
 </div>
 
