@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zyfanity&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Discord%20Bot%20Creator&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zyfanity&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack+Developer+%26+Discord+Bot+Creator&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Founder+%26+Full-Stack+Developer;Founder+Of+Ryzo+DiscordBOT;Building+Websites+%26+Discord+Bots;An+Editor" alt="Typing SVG" />
 
@@ -10,29 +10,9 @@
 
 ## 👾 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380"/>
 
-```yaml
-Name        : Zyfanity
-Role        : Full-Stack Developer
-              Discord Bot Creator
-              UI/UX Designer & Editor
-
-Expertise   : React · Node.js · TypeScript
-              Discord.js · MongoDB · Supabase
-
-Currently   : ⚡ Building Ryzo — AIO Discord Bot
-              🌐 Crafting aesthetic web experiences
-              🤖 Developing AI-powered tools
-
-Goals       : Ship products used by 1M+ users
-              Master systems programming (Go, Rust)
-              Build the next big Discord ecosystem
-
-Fun Facts   : 🔒 Best code is always private
-              🎵 Codes with music on loop
-              🌙 Most productive at night
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=A177F7&vCenter=true&width=420&height=220&lines=Name++++%3A+Zyfanity;Role++++%3A+Full-Stack+Developer;%E2%80%8B++++++++++Discord+Bot+Creator;%E2%80%8B++++++++++UI%2FUX+Designer+%26+Editor;%E2%80%8B;Focus+++%3A+React+%C2%B7+Node.js+%C2%B7+TypeScript;%E2%80%8B++++++++++Discord.js+%C2%B7+MongoDB;%E2%80%8B;Working+%3A+Building+Ryzo+AIO+Bot;%E2%80%8B++++++++++Crafting+aesthetic+web+apps;%E2%80%8B;Fun+%3A+++%F0%9F%94%92+Best+code+is+always+private;%E2%80%8B++++++++++%F0%9F%8C%99+Most+productive+at+night" alt="About Me" />
 
 <br clear="right"/>
 
