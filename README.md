@@ -75,10 +75,10 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyfanity&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyfanity&theme=tokyonight&hide_border=true&layout=compact&count_private=true" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyfanity&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyfanity&theme=tokyonight" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zyfanity&theme=tokyonight&hide_border=true" width="70%"/>
 
 > 🔒 Most of my repos & code are private
 
