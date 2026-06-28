@@ -65,7 +65,7 @@ Fun Facts   : 🔒 Best code is always private
 | 🎯 Project | 📝 Description | 🔗 Link |
 |:-----------|:---------------|:--------|
 | 🤖 **Ryzo** | Advanced AIO Discord Bot with powerful features | [ryzo.gg](https://ryzo.gg) |
-| 🌐 **Portfolio** | Personal dev profile with animations & music player | [zyfanity.netlify.app](https://zyfanity.netlify.app) |
+| 🌐 **Portfolio** | Personal dev profile with animations & music player | [zyfanity.qzz.io](https://zyfanity.qzz.io/) |
 
 </div>
 
@@ -76,9 +76,9 @@ Fun Facts   : 🔒 Best code is always private
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyfanity&theme=tokyonight&hide_border=true&layout=compact&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zyfanity&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zyfanity&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyfanity&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 > 🔒 Most of my repos & code are private
 
@@ -100,7 +100,7 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zyfanity.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zyfanity.qzz.io/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357626696806830080)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyfanity)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zyfanity)
