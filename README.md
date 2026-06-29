@@ -10,8 +10,7 @@
 
 ## 👾 About Me
 
-<img align="right" width="380"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyfanity&theme=tokyonight"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380"/>
 
 ```yaml
 Name        : Zyfanity
@@ -76,13 +75,9 @@ Fun Facts   : 🔒 Best code is always private
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=zyfanity&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zyfanity&theme=tokyonight&hide_border=true" width="49%"/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zyfanity&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyfanity&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 > 🔒 Most of my repos & code are private
 
