@@ -11,7 +11,7 @@
 ## 👾 About Me
 
 <img align="right" width="380"
-src="https://skillicons.dev/icons?i=react,nodejs,ts,discordjs,mongodb,supabase,nextjs,go,lua,git,vscode,figma&perline=3" />
+src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Skills&lineCount=3&theme=tokyonight&line1=react,React,61DAFB;node.js,Node.js,339933;typescript,TypeScript,3178C6;&line2=discord.js,Discord.js,5865F2;mongodb,MongoDB,47A248;supabase,Supabase,3ECF8E;&line3=next.js,Next.js,FFFFFF;go,Go,00ADD8;lua,Lua,2C2D72;" />
 
 ```yaml
 Name        : Zyfanity
