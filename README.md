@@ -41,45 +41,43 @@ Fun Facts   : 🔒 Best code is always private
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-<h3>💜 Core Competencies</h3>
-
-<table>
-<tr><th align="left">Skill</th><th align="left">Level</th></tr>
-<tr><td>💻 Frontend</td><td>█████████░ 90%</td></tr>
-<tr><td>⚙️ Backend</td><td>████████░░ 88%</td></tr>
-<tr><td>🎨 UI / UX</td><td>████████░░ 80%</td></tr>
-</table>
-
-<br>
-
-**Frontend**
-
-> React • Next.js • TypeScript
-
-**Backend**
-
-> Node.js • Express • Discord.js • MongoDB
-
-**Design**
-
-> Figma • Photoshop • Premiere Pro
-
-</td>
-
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3>🛠️ Tools & Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,linux,vercel,supabase,mongodb,mysql,nodejs" />
-
-</td>
-
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55"/><br><sub>Docker</sub></td>
 </tr>
+
+<tr>
+<td height="18"></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br><sub>Figma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br><sub>Linux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><sub>Vercel</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55"/><br><sub>Postman</sub></td>
+</tr>
+
+<tr>
+<td height="18"></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><sub>MongoDB</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><sub>MySQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="55"/><br><sub>Supabase</sub></td>
+</tr>
+
 </table>
 
-</div>
+</td>
 
 
 
