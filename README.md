@@ -36,62 +36,51 @@ Fun Facts   : 🔒 Best code is always private
 ```
 
 <br clear="right"/>
-```
 <div align="center">
 
 <table>
 <tr>
-<td width="49%" valign="top">
 
-### 💜 Core Competencies
+<td width="50%" valign="top">
 
-| Skill | Level |
-|:------|:------|
-| 💻 **Frontend** | █████████░ **90%** |
-| ⚙️ **Backend** | ████████░░ **88%** |
-| 🎨 **UI / UX** | ████████░░ **80%** |
+<h3>💜 Core Competencies</h3>
+
+<table>
+<tr><th align="left">Skill</th><th align="left">Level</th></tr>
+<tr><td>💻 Frontend</td><td>█████████░ 90%</td></tr>
+<tr><td>⚙️ Backend</td><td>████████░░ 88%</td></tr>
+<tr><td>🎨 UI / UX</td><td>████████░░ 80%</td></tr>
+</table>
+
+<br>
 
 **Frontend**
+
 > React • Next.js • TypeScript
 
 **Backend**
+
 > Node.js • Express • Discord.js • MongoDB
 
 **Design**
-> After Effects • Photoshop • Capcut
+
+> Figma • Photoshop • Premiere Pro
 
 </td>
 
-<td width="49%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🛠️ Tools & Technologies
+<h3>🛠️ Tools & Technologies</h3>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-<img src="https://skillicons.dev/icons?i=docker" width="55"/>
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
-<img src="https://skillicons.dev/icons?i=figma" width="55"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma,linux,vercel,supabase,mongodb,mysql,nodejs" />
 
 </td>
+
 </tr>
 </table>
 
 </div>
-```
+
 
 
 
