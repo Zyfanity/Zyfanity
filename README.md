@@ -58,7 +58,7 @@ Fun Facts   : 🔒 Best code is always private
 > Node.js • Express • Discord.js • MongoDB
 
 **Design**
-> Figma • Photoshop • Premiere Pro
+> After Effects • Photoshop • Capcut
 
 </td>
 
@@ -92,6 +92,7 @@ Fun Facts   : 🔒 Best code is always private
 
 </div>
 ```
+
 
 
 ---
