@@ -10,7 +10,8 @@
 
 ## 👾 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyfanity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380"/>
+<img align="right" width="380"
+src="https://skillicons.dev/icons?i=react,nodejs,ts,discordjs,mongodb,supabase,nextjs,go,lua,git,vscode,figma&perline=3" />
 
 ```yaml
 Name        : Zyfanity
